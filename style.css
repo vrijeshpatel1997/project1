@@ -1,0 +1,177 @@
+
+nav{
+display: flex;
+
+flex-direction: row;
+
+padding-bottom: 155px;
+
+margin-left: 20%;
+
+font-family: sans-serif;
+
+
+font-size: 25px;
+
+
+
+}
+
+
+.list{
+
+display: flex;
+margin-right: 100px;
+
+
+
+
+}
+
+.list-item{
+
+    margin-right: 55px;
+    list-style: none;
+
+}
+
+.logo{
+    
+    margin-left: 70px;
+    
+
+    
+}
+
+.person{
+    
+  position: absolute;
+  left: 15px;
+z-index: 10;
+ 
+}
+
+.hero-container-right{
+
+  
+position: absolute;
+left: 30%;
+top: 30%;
+text-align: center;
+
+font-size: 20px;
+
+   
+
+}
+
+
+.button-email{
+
+
+    padding-right: 55px;
+    margin-top: 75px;
+    margin-right: 75px;
+    text-align: center;
+    background-color: white;
+    border:  solid  black; 
+    font-size: 25px;
+
+    
+   border-radius: 10px 10px 10px 10px;
+
+}
+
+.button-join{
+
+    padding-right: 55px;
+    margin-top: 75px;
+    margin-right: 75px;
+    text-align: center;
+    background-color: black;
+    border:  solid  black; 
+    color: white;
+    
+   border-radius: 10px 10px 10px 10px;
+   font-size: 25px;
+}
+
+
+.contact-heading {
+
+    padding-top: 25px;
+    padding-right: 55px;
+    text-align: center;
+    font-size: 20px;
+    
+    
+}
+#home{
+
+text-decoration: underline;
+
+}
+
+.icons{
+
+    text-align: center;
+    
+}
+
+
+.nav-button{
+
+
+  position: absolute ;
+  top: 15px;
+    margin-left: 75px;
+ background-color: white;
+   border:  solid  black; 
+   border-radius: 10px 10px 10px 10px;
+   padding-left: 35px;
+   padding-right: 35px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   
+}
+
+
+.star{
+
+ position : absolute;
+ top: 150px;
+ left: 75%;
+}
+
+.star2{
+
+    position : absolute;
+    top: 150px;
+    left: 75%;
+   }
+.square{
+    position: absolute;
+    margin-left: 230px;
+    margin-top: 17%;
+    
+
+}
+
+
+.globe{
+position: absolute;
+top: 100px;
+left: 50%;
+
+   
+    
+
+}
+
+.hero-container-right h1{
+
+    font-size: 55px;
+
+   
+}
+
